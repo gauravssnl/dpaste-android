@@ -1,5 +1,5 @@
 # dpaste-android
-Android Application for sharing codes on dpaste.com 
+Android Application for sharing codes on [dpaste.com ] (http://dpaste.com)
 
 ![ScreenShot]( https://github.com/gauravssnl/dpaste-android/blob/master/20180329_124139.gif )
 
