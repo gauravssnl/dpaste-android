@@ -26,6 +26,7 @@ req.send(params);
 You can set poster name and expiry days from Settings option from left drawer.
 
 Author: gauravssnl
+
 Dpaste Author: [Paul Bissex]( https://mobile.twitter.com/pbx/)
 
 Thanks to Paul Bissex for creating dpaste.com
