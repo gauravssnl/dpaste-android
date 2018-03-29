@@ -1,9 +1,12 @@
 # dpaste-android
 Android Application for sharing codes on [dpaste.com](http://dpaste.com) 
 
+
 ![ScreenShot]( https://github.com/gauravssnl/dpaste-android/blob/master/20180329_124139.gif )
 
-How to create a paste on dpaste.com?
+
+Howto create a paste on dpaste.com?
+
 We need to make a POST request to dpaste.com with thess paramaters:
 content, syntax, title, poster, expiry_days
 
