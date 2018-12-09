@@ -1,8 +1,7 @@
 # dpaste-android
 Android Application for sharing codes on [dpaste.com](http://dpaste.com) 
 
-
-![ScreenShot]( https://github.com/gauravssnl/RotateTorIP/blob/master/Screenshot_20181207-125006.png )
+![ScreenShot]( https://github.com/gauravssnl/dpaste-android/blob/master/20180329_124139.gif )
 
 
 Howto create a paste on dpaste.com?
